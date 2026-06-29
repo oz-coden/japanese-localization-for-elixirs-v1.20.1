@@ -1,0 +1,23 @@
+{
+  "effect.true_elixirs.antidot": "毒耐性",
+  "item.true_elixirs.antitox": "毒耐性のエリクサー",
+  "item.true_elixirs.daisy_mix": "すり潰したフランスギク",
+  "item_group.true_elixirs.true_elixirs": "True elixirs",
+  "item.true_elixirs.orange_tulip_mix": "すり潰した橙色のチューリップ",
+  "item.true_elixirs.elixir_waterbreathing": "水中呼吸のエリクサー",
+  "item.true_elixirs.bottle": "ボトル",
+  "item.true_elixirs.elixir_night_vision": "暗視のエリクサー",
+  "item.true_elixirs.elixir_fireresistance": "火炎耐性のエリクサー",
+  "item.true_elixirs.blue_orchid_mix": "すり潰したヒスイラン",
+  "item.true_elixirs.lilac_mix": "すり潰したライラック",
+  "item.true_elixirs.elixir_speed": "移動速度上昇のエリクサー",
+  "item.true_elixirs.elixir_strenght": "攻撃力上昇のエリクサー",
+  "item.true_elixirs.elixir_slow_falling": "落下速度低下のエリクサー",
+  "effect.antidot": "毒耐性",
+  "item.true_elixirs.poppy_mix": "すり潰したポピー",
+  "item.true_elixirs.pink_tulip_mix": "すり潰した桃色のチューリップ",
+  "itemGroup.tabtrue_elixirs": "True elixirs",
+  "item.true_elixirs.mortal": "すり鉢",
+  "item.true_elixirs.elixir_healing": "再生のエリクサー",
+  "item.true_elixirs.dandelion_mix": "すり潰したタンポポ"
+}
